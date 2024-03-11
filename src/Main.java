@@ -4,7 +4,7 @@ public class Main{
 		int inter= 0;
 		if(inter==0){
 			System.out.println("Forza Inter");
-			
+			System.out.println("Juve seconda");
 		}
 		
 	}
